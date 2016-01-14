@@ -7,4 +7,3 @@
 - salt and pepper
 
 - secret sauce
-- some poison
